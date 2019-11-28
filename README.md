@@ -25,7 +25,7 @@ https://docs.microsoft.com/zh-tw/sql/connect/jdbc/system-requirements-for-the-jd
 下載1.7.0 JDK :https://codenotfound.com/java-download-install-jdk-7-windows.html
 JRE設定教學 : https://www.zkoss.org/wiki/Setting_Default_JRE_In_Eclipse
 
-保險起見，這裡也修改一下:
+
  
  
 
